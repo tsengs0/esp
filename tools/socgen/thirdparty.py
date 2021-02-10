@@ -25,8 +25,8 @@ THIRDPARTY_COMPATIBLE["hu_nlp"] = "hu_nlp"
 THIRDPARTY_IRQ_TYPE["hu_nlp"]   = "0"
 
 # EdgeBERT
-THIRDPARTY_COMPATIBLE["hu_EdgeBERT"] = "hu_EdgeBERT"
-THIRDPARTY_IRQ_TYPE["hu_EdgeBERT"]   = "0"
+THIRDPARTY_COMPATIBLE["hu_edgebert"] = "hu_edgebert"
+THIRDPARTY_IRQ_TYPE["hu_edgebert"]   = "0"
 
 
 #
